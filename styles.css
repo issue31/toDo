@@ -1,0 +1,42 @@
+/* Custom styles for the to-do list application */
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+.bg-white-smoke {
+    background-color: #F5F5F5;
+}
+
+.bg-charcoal {
+    background-color: #e0f1fc;
+}
+
+.bg-electric-blue {
+    background-color: #7FDBFF;
+}
+
+.text-white {
+    color: #ffffff;
+}
+
+.text-black {
+    color: #000000;
+}
+
+.border-black {
+    border-color: #000000;
+}
+
+.rounded {
+    border-radius: 0.25rem;
+}
+
+.rounded-l {
+    border-top-left-radius: 0.25rem;
+    border-bottom-left-radius: 0.25rem;
+}
+
+.rounded-r {
+    border-top-right-radius: 0.25rem;
+    border-bottom-right-radius: 0.25rem;
+}
